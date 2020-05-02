@@ -22,3 +22,4 @@ Carrying keys has always been a hastle. It's a problem to keep them safely. But 
 - Electronic lock
 - A relay driver
 - Power adapter
+- Some jumper cables
