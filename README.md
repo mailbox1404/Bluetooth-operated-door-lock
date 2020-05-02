@@ -20,6 +20,6 @@ Carrying keys has always been a hastle. It's a problem to keep them safely. But 
 - HC05 Bluetooth Module
 - Arduino board
 - Electronic lock
-- A relay driver
+- Relay module
 - Power adapter
 - Some jumper cables
