@@ -14,3 +14,11 @@ Carrying keys has always been a hastle. It's a problem to keep them safely. But 
  
 -How will you get in if you misplace your phone?
   Simply borrow a phone from someone for a second, download the app from playstore, connect to the right bluetooth device, enter the password and walk in!
+
+
+# Parts required:
+- HC05 Bluetooth Module
+- Arduino board
+- Electronic lock
+- A relay driver
+- Power adapter
