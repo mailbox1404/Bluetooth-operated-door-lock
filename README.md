@@ -5,7 +5,7 @@ Watch the tutorial video at-
 https://youtu.be/at00y2N-u3A
 
 Download the app from-
-https://play.google.com/store/apps/details?id=appinventor.ai_appdwarka.Smart_Lock
+https://play.google.com/apps/testing/com.rupak.smart_lock
 
 Carrying keys has always been a hastle. It's a problem to keep them safely. But everybody carries phone while going out. What if I say that instead of keys, you can unlock the door with your smartphone via bluetooth. Simply enter the password on your smartphone and walk in!
 
