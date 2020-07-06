@@ -26,7 +26,7 @@ Carrying keys has always been a hastle. It's a responsibility to keep them safel
 - Power adapter
 - Some jumper cables
 
-# Build the ciruit
+# Build the circuit
 Step 1: Upload the Smart lock code to your Arduino board. You can find the code here- [HERE GOES THE LINK TO THE CODE]
 
 Step 2: Attach a Bluetooth module and connect an electronic door lock to the pin number 12 of the Arduino board using a relay module as shown in the picture.
@@ -35,11 +35,11 @@ Step 2: Attach a Bluetooth module and connect an electronic door lock to the pin
 
 Step 3: Turn on the system. Go to the Bluetooth settings on your phone and pair your Bluetooth module.
 
-Step 4: Download the Smart lock app from Google Play Store. You may use the link mentioned above. Open the app and Click the "Click here to connect" button and choose your Bluetooth module.
+Step 4: Download the Smart lock app from Google Play Store. You may use the link mentioned above. Open the app and Click the "Click here to connect" button and select your Bluetooth module.
 
 Step 5: Go to the setup page and click the "Change password" button. Leave the curent password column blank for the first time. Enter and confirm the new password and again hit the "Change password" button.
 
 For now you are done. You may tinker around with the settings on the setup page.
 
 # Details
-This app and the Arduino code makes use of the Arduino EEPROM to store the password. The password remains in the memory even if the Arduino board is turned off. If you forget the password by any chance, you cannot reset it by uploading the Arduino code again. In this case, if you want to reset your password, you need to flash the Reset_EEPROM code to your Arduino board. You can find the code here- [Here goes the reset code].
+## This app and the Arduino code makes use of the Arduino EEPROM to store the password. The password remains in the memory even if the Arduino board is turned off. If you forget the password by any chance, you cannot reset it by uploading the Arduino code again. In this case, if you want to reset your password, you need to flash the Reset_EEPROM code to your Arduino board. You can find the code here- [Here goes the reset code].
