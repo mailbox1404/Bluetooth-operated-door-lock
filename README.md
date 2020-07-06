@@ -42,4 +42,4 @@ Step 5: Go to the setup page and click the "Change password" button. Leave the c
 For now you are done. You may tinker around with the settings on the setup page.
 
 # Details
-## This app and the Arduino code makes use of the Arduino EEPROM to store the password. The password remains in the memory even if the Arduino board is turned off. If you forget the password by any chance, you cannot reset it by uploading the Arduino code again. In this case, if you want to reset your password, you need to flash the Reset_EEPROM code to your Arduino board. You can find the code here- [Here goes the reset code].
+## The Android app and the Arduino code makes use of the Arduino EEPROM to store the password. The password remains in the memory even if the Arduino board is turned off. If you forget the password by any chance, you cannot reset it by uploading the Arduino code again. In this case, if you want to reset your password, you need to flash the Reset_EEPROM code to your Arduino board. You can find the code here- [Here goes the reset code].
