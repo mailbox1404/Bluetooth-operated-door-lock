@@ -1,7 +1,8 @@
 # Bluetooth-operated-door-lock
 Here you will find all the files required for this project.
 
-[OLD] Watch the tutorial video at-
+### [OLD] 
+Watch the tutorial video at-
 https://youtu.be/at00y2N-u3A
 
 Download the app from-
@@ -24,4 +25,4 @@ Carrying keys has always been a hastle. It's a responsibility to keep them safel
 - Power adapter
 - Some jumper cables
 
-# Build the ciruit ## this is temporary
+# Build the ciruit
