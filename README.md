@@ -31,7 +31,7 @@ Step 1: Upload the Smart lock code to your Arduino board. You can find the code 
 
 Step 2: Attach a Bluetooth module and connect an electronic door lock to the pin number 12 of the Arduino board using a relay module as shown in the picture.
 
-[HERE COMES THE IMAGE]
+![Circuit_diagram](https://github.com/Rupakpoddar/Bluetooth-operated-door-lock/blob/master/Circuit%20Diagram.png)
 
 Step 3: Turn on the system. Go to the Bluetooth settings on your phone and pair your Bluetooth module.
 
